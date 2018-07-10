@@ -7,17 +7,20 @@ end
 def breakfast(food="frosted flakes")
  puts "Morning is the best time for #{food}!"
 end
+breakfast
 
 def lunch(food="Grilled Cheese")
  puts"Lunch is the best time for #{food}!"
 end
+lunch
 
 def dinner(food="Salmon")
   puts"dinner is the best time for #{food}!"
 end
+dinner
 
 
-puts snacks("mochi")
+ puts snacks("mochi")
 puts breakfast("cheerios")
 puts lunch ("spam musubi")
 puts dinner ("pizza")
