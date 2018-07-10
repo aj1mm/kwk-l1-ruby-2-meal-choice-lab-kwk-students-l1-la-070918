@@ -21,9 +21,9 @@ dinner
 
 
  puts snacks("mochi")
-puts breakfast("cheerios")
-puts lunch ("spam musubi")
-puts dinner ("pizza")
+ puts breakfast("cheerios")
+ puts lunch ("spam musubi")
+ puts dinner ("pizza")
 
 # Call the methods with puts and your own arguments here. Like this:
 puts snacks("Swedish fish")
