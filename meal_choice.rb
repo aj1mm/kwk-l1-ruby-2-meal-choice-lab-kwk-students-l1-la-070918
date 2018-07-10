@@ -8,19 +8,19 @@ def meal_choice(food="Frosted Flakes")
  puts"morning is the best time for #{food}!"
 end
 
-meal_choice
+meal_choice("Cheerios")
 
 def meal_choice(food="Grilled Cheese")
  puts"Lunch is the best time for #{food}!"
 end
 
-meal_choice
+meal_choice("Spam Musubi")
 
 def meal_choice(food="Salmon")
   puts"dinner is the best time for #{food}!"
 end
 
-meal_choice
+meal_choice("Pizza")
 
 
 # Call the methods with puts and your own arguments here. Like this:
