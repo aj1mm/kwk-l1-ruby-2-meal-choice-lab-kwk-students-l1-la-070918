@@ -1,11 +1,11 @@
 # Here's an example of a 'snacks' method that returns the meal choice passed in to it and defaults to "cheetos" if nothing is passed in.
 def snacks(food="Cheetos")
-  "Any time, is the right time for #{food}!"
+  puts"Any time, is the right time for #{food}!"
 end
 
 
 def breakfast(food="frosted flakes")
- puts "Morning is the best time for #{food}!"
+ puts"Morning is the best time for #{food}!"
 end
 breakfast
 
